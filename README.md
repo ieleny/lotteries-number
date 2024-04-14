@@ -12,8 +12,13 @@
 # Tecnologies
 
 - Front-end
-   - React.js
+   - React
+   - NextJs
+   - Jest
+   - Cypress
+   - Typescript
    - Zustand
+   - Docker
 - Back-End
    - Node.js
    - Docker
