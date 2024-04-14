@@ -1,5 +1,4 @@
-# lotteries-number
-Application to support the creation of lottery tickets
+# Lotteries Number
 
 # Ideas
 
@@ -7,12 +6,22 @@ Application to support the creation of lottery tickets
 - Check that the numbers in each result match
 - Create a cards
 - Show results
-- https://www.texaslottery.com/opencms/Games/Check_Your_Numbers_Cash_Five_Results.jsp
+- (TexasLottery)[https://www.texaslottery.com/opencms/Games/Check_Your_Numbers_Cash_Five_Results.jsp]
+- (LotteryManagement)[https://www.linkedin.com/pulse/top-10-lottery-management-software-app-development-shrivastava/]
 
 # Tecnologies
 
-- vue.js
+- Front-end
+   - React.js
+   - Zustand
+- Back-End
+   - Node.js
+   - Docker
 
 # Architeture
 
+# Front-end
 - Domain (Concept to modeling the software) or MVVM
+
+# Back-End
+- Clean Architeture
